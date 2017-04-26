@@ -1,12 +1,12 @@
-# _My-First-Webpage_
+# My First Webpage
 
-#### _The first web page I created for class, 4.24.17
+#### The first web page I created for class, 4.24.17
 
-#### By _**Patrick Napper**_
+#### By **Patrick Napper**
 
 ## Description
 
-_This web page lists some of the things I will learn in class including HTML, CSS, JavaScript, and a lot more._
+This web page lists some of the things I will learn in class including HTML, CSS, JavaScript, and a lot more._
 
 ## Setup
 
@@ -16,6 +16,6 @@ _This web page lists some of the things I will learn in class including HTML, CS
 
 ## Technologies Used
 
-_HTML_
+HTML
 
 Copyright (c) 2017 **_Epicodus_**
