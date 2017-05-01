@@ -1,0 +1,32 @@
+h1 {
+  color: green;
+  text-align: center;
+  }
+h2 {
+  color: black;
+  text-align: left;
+  font-style: italic;
+  line-height: normal;
+  }
+h3 {
+  color: red;
+  text-align: left;
+  font-style: normal;
+  font-kerning: auto;
+}
+p {
+  color: blue;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+}
+ul {
+  color: black;
+  text-align: left;
+  font-style: normal;
+}
+ol {
+  color: black;
+  text-align: left;
+  font-style: italic;
+}
